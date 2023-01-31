@@ -1,0 +1,158 @@
+
+
+*{margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+    }
+    
+    .carousel-inner img{
+        width: 100%;
+        height: 90%;
+    }
+
+    .aboutimg{
+        width:100%;
+        height: 250px!important;
+        margin-top: -20px;
+        position: relative;
+    font-size: 36px;
+    font-weight: 400;
+    color: #150f24;
+    z-index: 1;
+    }
+.gallery_slide{
+    width: 60%;
+    height:10%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    background-image: 100%,100%;
+    transform :translate(-50%,50%);
+}
+    
+.form-group {
+	width: 100%;
+	overflow: hidden;
+	font-size: 15px;
+	padding: 8px 0;
+	margin: 8px 0;
+	border-bottom: 1px solid rgb(25, 61, 112);
+}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: url() no-repeat;
+	background-size: cover;
+}
+
+  .h-font{
+    font-family: 'Merienda',cursive;
+  }
+  .custom-bg{
+    background-color: #279e8c;
+    border: 1px  solid #279e8c;
+
+  }
+  .custom-bg:hover{
+    background-color:#279e8c;
+    border-color:#279e8c;
+  }
+  .availability-form{
+    margin-top: -50px;
+    z-index: 2;
+    position: relative;
+
+  }
+  .center {
+    text-align: center;
+justify-content: center;
+    }
+    .mydiv { display: inline; }
+    .hidden{ display: none; }
+
+  @media screen and(max-width:575px) {
+    .availability-form{
+      margin-top: 0px;
+
+    }
+  }
+  .price-list ul {
+    padding: 0px;
+    list-style: none;
+}
+.price-gd-top {
+    text-align: center;
+    position: relative;
+}
+.price-gd-top h4 {
+    font-size: 1.5em;
+    color: #fff;
+    padding: 0.4em 1em;
+    background: #0f2453;
+    font-weight: 300;
+    position: absolute;
+    top: 9.6em;
+    right: 0em;
+}
+.price-selet h3 {
+    padding: 0.2em 0em 0em 0em;
+    font-size: 1.7em;
+    float: left;
+    margin-left: 20px;
+}
+.price-selet h3 span {
+    color: #ef0404;
+    font-size: 31px;
+    margin-right: 5px;
+}
+.price-gd-bottom {
+    background: #fff;
+    text-align: center;
+    padding: 1.8em 0em 1em;
+}
+.price-gd-top img {
+    width: 100%;
+}
+.price-list ul li {
+    padding: 0.5em 0em;
+    font-size: 0.9em;
+    color: #2b2b2b;
+    display: inline-block;
+}
+.price-selet {
+    padding: 1em 0em;
+    text-align: center;
+    background: #fff;
+}
+.price-selet a {
+    font-size: 1.1em;
+    color: #fff;
+    display: block;
+}
+.price-selet a {
+    font-size: 0.9em;
+    color: #000000;
+    display: inline-block;
+    padding: 0.5em 2em;
+    background: #ffce14;
+    text-decoration: none;
+    border: 2px solid #ecbf11;
+}
+.price-block {
+    box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.15);
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+}
+.price-block:hover,.w3layouts-pricing:hover,.w3-agileits-vpn-grid:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    z-index: 1;
+}
+/*--//rooms & rates --*/
