@@ -1,2 +1,1 @@
-##This repository contains the files related to HTML,PHP and JAVASCRIPT
 # Room-Booking-System is web based application in which customer, Hotel Rooms can easily acquire with just few clicks whereas daily update of the Rooms also helps department and management to provide Room service more effectively and efficiently. This system is cost effective so it can be used by customer and hotel departments from anywhere at any time. Daily information updates of Room schedule areavailable in this application.
